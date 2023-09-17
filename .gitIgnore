@@ -1,0 +1,40 @@
+# Byte-compiled / compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE (por ejemplo, PyCharm)
+.idea/
+.vscode/
+
+# Logs y archivos generados
+*.log
+*.csv
+
+# Archivos de configuración locales
+*.sqlite3
+
+# Dependencias y archivos de construcción
+*.pyc
+*.pyo
+__pycache__/
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Carpetas de entorno virtual de conda
+.env/
+.conda/
+
+# Archivos generados por herramientas de construcción (por ejemplo, setuptools)
+*.pyc
+MANIFEST
