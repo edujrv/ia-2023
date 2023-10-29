@@ -40,7 +40,4 @@ env/
 *.pyc
 MANIFEST
 
-#modelh5
-gtsrb/
-
 *.zip
